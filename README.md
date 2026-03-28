@@ -1,4 +1,4 @@
-# 🎰 Slot Dice Decoder
+# 🎰 Telegram Dice Decoder
 
 Декодирует числовое значение Telegram Dice (1–64) в комбинацию символов на трёх барабанах слот-машины
 
